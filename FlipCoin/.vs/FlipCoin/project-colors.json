@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b03dea13-4583-4d2d-a03d-1610f77bb0ac": {
+      "ProjectGuid": "b03dea13-4583-4d2d-a03d-1610f77bb0ac",
+      "DisplayName": "FlipCoin",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

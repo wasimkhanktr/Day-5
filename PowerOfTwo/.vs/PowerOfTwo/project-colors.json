@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "70e7f332-5c46-4921-b366-44fe01e8f17f": {
+      "ProjectGuid": "70e7f332-5c46-4921-b366-44fe01e8f17f",
+      "DisplayName": "PowerOfTwo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

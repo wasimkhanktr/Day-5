@@ -1,0 +1,14 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\PowerOfTwo\bin\Debug\net6.0\ref\PowerOfTwo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\PowerOfTwo\bin\Debug\net6.0\PowerOfTwo.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\PowerOfTwo\obj\Debug\net6.0\ref\PowerOfTwo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\PowerOfTwo\obj\Debug\net6.0\PowerOfTwo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Swap2No\obj\Debug\net6.0\Swap2No.csproj.AssemblyReference.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Swap2No\obj\Debug\net6.0\Swap2No.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Swap2No\obj\Debug\net6.0\Swap2No.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Swap2No\obj\Debug\net6.0\Swap2No.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Swap2No\obj\Debug\net6.0\Swap2No.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Swap2No\bin\Debug\net6.0\Swap2No.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Swap2No\bin\Debug\net6.0\Swap2No.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Swap2No\bin\Debug\net6.0\Swap2No.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Swap2No\bin\Debug\net6.0\Swap2No.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Swap2No\bin\Debug\net6.0\ref\Swap2No.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Swap2No\bin\Debug\net6.0\Swap2No.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Swap2No\obj\Debug\net6.0\Swap2No.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Swap2No\obj\Debug\net6.0\ref\Swap2No.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Swap2No\obj\Debug\net6.0\Swap2No.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Swap2No\obj\Debug\net6.0\Swap2No.genruntimeconfig.cache

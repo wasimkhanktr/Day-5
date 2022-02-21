@@ -1,0 +1,15 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Factors\bin\Debug\net6.0\Factors.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Factors\bin\Debug\net6.0\Factors.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Factors\bin\Debug\net6.0\Factors.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Factors\bin\Debug\net6.0\Factors.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Factors\bin\Debug\net6.0\ref\Factors.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Factors\bin\Debug\net6.0\Factors.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Factors\obj\Debug\net6.0\Factors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Factors\obj\Debug\net6.0\Factors.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Factors\obj\Debug\net6.0\Factors.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Factors\obj\Debug\net6.0\Factors.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Factors\obj\Debug\net6.0\Factors.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Factors\obj\Debug\net6.0\ref\Factors.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Factors\obj\Debug\net6.0\Factors.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Factors\obj\Debug\net6.0\Factors.genruntimeconfig.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Factors\obj\Debug\net6.0\Factors.csproj.AssemblyReference.cache

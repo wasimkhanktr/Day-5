@@ -1,0 +1,14 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Remainder\bin\Debug\net6.0\Remainder.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Remainder\bin\Debug\net6.0\Remainder.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Remainder\bin\Debug\net6.0\Remainder.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Remainder\bin\Debug\net6.0\Remainder.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Remainder\bin\Debug\net6.0\ref\Remainder.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Remainder\bin\Debug\net6.0\Remainder.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Remainder\obj\Debug\net6.0\Remainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Remainder\obj\Debug\net6.0\Remainder.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Remainder\obj\Debug\net6.0\Remainder.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Remainder\obj\Debug\net6.0\Remainder.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Remainder\obj\Debug\net6.0\Remainder.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Remainder\obj\Debug\net6.0\ref\Remainder.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Remainder\obj\Debug\net6.0\Remainder.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\Remainder\obj\Debug\net6.0\Remainder.genruntimeconfig.cache

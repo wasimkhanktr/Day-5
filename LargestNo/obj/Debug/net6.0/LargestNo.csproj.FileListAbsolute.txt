@@ -1,0 +1,14 @@
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\LargestNo\bin\Debug\net6.0\LargestNo.exe
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\LargestNo\bin\Debug\net6.0\LargestNo.deps.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\LargestNo\bin\Debug\net6.0\LargestNo.runtimeconfig.json
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\LargestNo\bin\Debug\net6.0\LargestNo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\LargestNo\bin\Debug\net6.0\ref\LargestNo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\LargestNo\bin\Debug\net6.0\LargestNo.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\LargestNo\obj\Debug\net6.0\LargestNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\LargestNo\obj\Debug\net6.0\LargestNo.AssemblyInfoInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\LargestNo\obj\Debug\net6.0\LargestNo.AssemblyInfo.cs
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\LargestNo\obj\Debug\net6.0\LargestNo.csproj.CoreCompileInputs.cache
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\LargestNo\obj\Debug\net6.0\LargestNo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\LargestNo\obj\Debug\net6.0\ref\LargestNo.dll
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\LargestNo\obj\Debug\net6.0\LargestNo.pdb
+C:\Users\wasimkhanktr\Desktop\BridgeLabs\C#\day-5\LargestNo\obj\Debug\net6.0\LargestNo.genruntimeconfig.cache
